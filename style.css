@@ -413,6 +413,9 @@ footer {
     flex-direction: column;
     align-items: center;
   }
+  .about-right{
+    width:90%;
+  }
 
   .footer-area {
     display: grid;
